@@ -1,5 +1,6 @@
                         /* Custom Css  */
 
+                        /* slider section */
 .slider-bg{
     background-color: #FEEAE9;
     border-radius: 10px;
@@ -19,3 +20,36 @@
     border: 2px solid #FF589B;
     transform: scale(1); 
 }
+
+                /* slider section end  */
+                
+                /* categori section */
+.cat1 {
+    background-color: orange;
+}
+.cat2 {
+    background-color: #FF589B;
+}
+.cat3 {
+    background-color: #4289FF;
+}
+.cat1, .cat2, .cat3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.section-tittle{
+    text-align: center;
+}
+.section-tittle h2{
+    font-size: 40px;
+    border-bottom: 5px  dashed #FF589B;
+    display: inline-block;
+    padding-bottom: 4px;
+}
+.categories h1 {
+    color: white;
+}
+.categories img {
+    width: 100px;
+}
+                    /* categori end */
